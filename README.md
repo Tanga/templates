@@ -1,2 +1,2 @@
 # templates
-Place for Public Templates
+Place for public Templates
